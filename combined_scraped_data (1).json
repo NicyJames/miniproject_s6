@@ -1,0 +1,36 @@
+{
+    "district_counts": {
+        "thiruvananthapuram": 0,
+        "kollam": 0,
+        "pathanamthitta": 0,
+        "alappuzha": 0,
+        "kottayam": 0,
+        "idukki": 0,
+        "ernakulam": 0,
+        "thrissur": 0,
+        "palakkad": 0,
+        "malappuram": 0,
+        "kozhikode": 0,
+        "wayanad": 0,
+        "kannur": 0,
+        "kasaragod": 0
+    },
+    "title_counts": {
+        "Gulf News": 3,
+        "Thrissur News": 6,
+        "Thiruvananthapuram News": 1,
+        "Kottayam News": 2,
+        "Malappuram News": 3,
+        "Kannur News": 1,
+        "Pathanamthitta News": 4,
+        "Kerala": 6,
+        "US News": 1,
+        "Auto News": 1,
+        "Latest News": 10,
+        "Alappuzha News": 3,
+        "Ernakulam News": 1,
+        "Kollam News": 3,
+        "Idukki News": 3,
+        "Palakkad News": 2
+    }
+}
